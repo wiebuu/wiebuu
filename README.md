@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi 👋 I’m Vibhu
 
-<!--
-**wiebuuu/wiebuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Full Stack Developer | 🚀 Building [Wiecodes](https://github.com/wiebuuu/wiecodes-web)
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+- Frontend: React, Vite, Tailwind
+- Backend: Node.js, Express
+- Database: MongoDB, Firebase
+- Tools: Git, GitHub, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Currently grinding DSA + System Design.
+
+🏋️‍♂️ Gym, Growth, and Grinding daily.
+
+📫 Connect with me:
+- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/vishwas-singh-346244225)
+  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vibhusingh123&show_icons=true&theme=radical)
