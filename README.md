@@ -15,4 +15,4 @@
 📫 Connect with me:
 - LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/vishwas-singh-346244225)
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vibhusingh123&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=visking12345-9266&show_icons=true&theme=radical)
