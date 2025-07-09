@@ -7,10 +7,6 @@
 
 ---
 
-<table align="center" width="100%">
-  <tr>
-    <td valign="top" width="50%">
-
 ### 🚀 Tech Stack
 
 <div align="left">
@@ -26,9 +22,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 </div>
-
-  </td>
-  <td valign="top" width="50%">
 
 ### 📬 Connect With Me
 
@@ -46,9 +39,6 @@
 
 </div>
 
-  </td>
-  </tr>
-</table>
 
 ---
 
