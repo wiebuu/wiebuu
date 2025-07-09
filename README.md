@@ -7,16 +7,6 @@
 
 ---
 
-## 🛠️ About Me
-
-- 🚀 Building **Wiecodes** – A modern developer-first template marketplace  
-- 🔧 Specializing in **MERN Stack** | Backend-heavy systems | Scalable APIs  
-- 📈 Practicing **DSA** (300+ LeetCode plan)  
-- 🎓 Final Year BCA Student  
-- 🧠 Learning Cloud & Microservices (AWS | Docker | CI/CD)
-
----
-
 ## 🚀 Tech Stack
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat-square&logo=mongodb&logoColor=white)
@@ -35,8 +25,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wiebuuu&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wiebuuu&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -46,15 +34,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiebuuu&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
----
-
-## 📌 Featured Projects
-
-- 🧩 [Wiecodes](https://wiecodes.com): Template marketplace powered by GitHub & Firebase  
-- ⚙️ Admin Panel with real-time approval, analytics, and seller dashboard  
-- 🔐 Firebase Auth | 🗃️ MongoDB | 🎨 React + Tailwind  
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wiebuuu&theme=radical" />
+</p>
 ---
 
 ## 📬 Connect With Me
@@ -62,12 +44,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/vishwas-singh-346244225"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="mailto:vishwasvibhuofficial123@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=web&logoColor=white"></a>
+  <a href="https://leetcode.com/wiebuu/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
 </p>
-
----
-
-> “Code with purpose. Build with vision.”
 
 
 
