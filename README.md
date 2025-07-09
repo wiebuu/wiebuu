@@ -13,6 +13,6 @@
 🏋️‍♂️ Gym, Growth, and Grinding daily.
 
 📫 Connect with me:
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/vishwas-singh-346244225)
+- LinkedIn: [linkedin.com/in/vishwas](https://linkedin.com/in/vishwas-singh-346244225)
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wiebuuu&show_icons=true&theme=radical)
