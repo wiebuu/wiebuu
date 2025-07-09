@@ -27,7 +27,7 @@
 
 ### 📬 Connect With Me
 
-<div align="center">
+<div align="center" width=100%>
 
 <a href="https://www.linkedin.com/in/vishwas-singh-346244225">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
