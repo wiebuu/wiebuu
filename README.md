@@ -43,7 +43,7 @@
 <tr>
 <td colspan="2" align="center">
 <br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wiebuuu&theme=radical" width="95%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wiebuu&theme=radical" width="95%" />
 </td>
 </tr>
 </table>
