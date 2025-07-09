@@ -1,6 +1,6 @@
 <h3 align="center">
-  🎯 Full Stack Developer • 🚀 Founder of <a href="https://wiecodes.com">Wiecodes</a><br/>
-  💡 Dreamer | 💻 Builder | 🧠 Problem Solver
+  Full Stack Developer • Founder of <a href="https://wiecodes.com">Wiecodes</a><br/>
+  Dreamer | Builder | Problem Solver
 </h3>
 
 ---
