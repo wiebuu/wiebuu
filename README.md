@@ -1,12 +1,3 @@
-<h1 align="center">Hi 👋 I'm Vishwas</h1>
-
-<p align="center">
-  🎯 Full Stack Developer • 🚀 Founder of <a href="https://wiecodes.com">Wiecodes</a><br/>
-  💡 Dreamer | 💻 Builder | 🧠 Problem Solver
-</p>
-
----
-
 ### 🚀 Tech Stack
 
 <p align="center">
