@@ -32,18 +32,6 @@
 ---
 
 <table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      
-<img src="https://github-readme-stats.vercel.app/api?username=wiebuuu&show_icons=true&theme=radical" width="95%"/>
-
-</td>
-<td align="center" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiebuuu&layout=compact&theme=radical" width="95%"/>
-
-</td>
-</tr>
 <tr>
 <td colspan="2" align="center">
 <br/>
