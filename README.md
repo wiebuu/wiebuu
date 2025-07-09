@@ -43,7 +43,8 @@
 <tr>
 <td colspan="2" align="center">
 <br/>
-      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiebuu&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook" alt="Github Top Langs" title="Github Top Langs"/> </td>
+           <img src="https://nirzak-streak-stats.vercel.app/?user=ervikassingh&theme=yeblu&hide_border=false" alt="Github Streak" title="Github Streak"/> 
+ </td>
 </tr>
 </table>
 
@@ -53,6 +54,9 @@
     <img src="https://github-profile-trophy.vercel.app/?username=wiebuu&theme=algolia&no-frame=false&no-bg=false&margin-w=4"/>
   </a>
 </p>
+
+
+
 
 
 
