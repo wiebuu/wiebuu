@@ -5,7 +5,7 @@
 
 ---
 
-<h4 align="center">Tech Stack</h4>
+<h3 align="center">Tech Stack</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white"/>
@@ -21,7 +21,7 @@
 
 ---
 
-<h4 align="center">Connect With Me</h4>
+<h3 align="center">Connect With Me</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vishwas-singh-346244225">
