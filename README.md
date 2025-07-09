@@ -43,29 +43,11 @@
 <tr>
 <td colspan="2" align="center">
 <br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wiebuu&theme=radical" width="95%" />
-</td>
+      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiebuu&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook" alt="Github Top Langs" title="Github Top Langs"/> </td>
 </tr>
 </table>
 
-### Statistics:
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=wiebuu&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" title="Github Stats"/>  
-    </td>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=wiebuu&theme=yeblu&hide_border=false" alt="Github Streak" title="Github Streak"/> 
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiebuu&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook" alt="Github Top Langs" title="Github Top Langs"/> 
-    </td>
-  </tr>
-</table>
 
-### Trophies:
 <p align="center">
   <a>
     <img src="https://github-profile-trophy.vercel.app/?username=wiebuu&theme=algolia&no-frame=false&no-bg=false&margin-w=4"/>
