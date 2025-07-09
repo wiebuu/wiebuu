@@ -48,11 +48,6 @@
 </table>
 
 
-<p align="center">
-  <a>
-    <img src="https://github-profile-trophy.vercel.app/?username=wiebuu&theme=algolia&no-frame=false&no-bg=false&margin-w=4"/>
-  </a>
-</p>
 
 
 
