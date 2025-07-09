@@ -1,3 +1,10 @@
+<H1 align="center">
+  🎯 Full Stack Developer • 🚀 Founder of <a href="https://wiecodes.com">Wiecodes</a><br/>
+  💡 Dreamer | 💻 Builder | 🧠 Problem Solver
+</H1>
+
+---
+
 ### 🚀 Tech Stack
 
 <p align="center">
