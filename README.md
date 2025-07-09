@@ -24,7 +24,7 @@
 <h3 align="center">Connect With Me</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vishwas-singh-346244225">
+  <a href="https://www.linkedin.com/in/wiebuu">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:vishwasvibhuofficial123@gmail.com">
