@@ -43,7 +43,7 @@
 <tr>
 <td colspan="2" align="center">
 <br/>
-           <img src="https://nirzak-streak-stats.vercel.app/?user=ervikassingh&theme=yeblu&hide_border=false" alt="Github Streak" title="Github Streak"/> 
+           <img src="https://nirzak-streak-stats.vercel.app/?user=wiebuu&theme=yeblu&hide_border=false" alt="Github Streak" title="Github Streak"/> 
  </td>
 </tr>
 </table>
