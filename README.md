@@ -24,17 +24,18 @@
 
 ### 📬 Connect With Me
 
-<p align="center" style="text-decoration: none;">
-  <a href="https://www.linkedin.com/in/vishwas-singh-346244225" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/vishwas-singh-346244225">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="mailto:vishwasvibhuofficial123@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  <a href="mailto:vishwasvibhuofficial123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Send-red?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/wiebuu/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
+  <a href="https://leetcode.com/wiebuu/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-yellow?style=flat&logo=leetcode&logoColor=black" />
   </a>
 </p>
+
 
 ---
 
